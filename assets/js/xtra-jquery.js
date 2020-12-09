@@ -1,3 +1,7 @@
+// this jQuery is to create the user experience where it looks like static images when they arrive on the page, and then on mouseover the images change toe GIFs
+
+
+
 // hides all the gifs upon initial doc ready
 
 $( document ).ready( function() {
@@ -21,8 +25,12 @@ $( document ).ready( function() {
 
 }) 
 
-
+// --------------------------
 // ----- Devpendency section
+// --------------------------
+
+
+// on mouseover, the GIFs appear and the IMGs hide
 
 $('#first-dev-gif-img').on('mouseover', function() {
   $('#first-dev-gif').show();
@@ -39,6 +47,7 @@ $('#third-dev-gif-img').on('mouseover', function() {
   $('#third-dev-gif-img').hide();
 });
 
+// on mouseleave, the GIFs appear and the IMGs hide
 
 
 $('#first-dev-gif').on('mouseleave', function() {
@@ -56,7 +65,10 @@ $('#third-dev-gif').on('mouseleave', function() {
   $('#third-dev-gif-img').show();
 });
 
+// ------------------------
 // ----- Brain Bugs section
+// ------------------------
+
 
 $('#first-brainbugs-gif-img').on('mouseover', function() {
   $('#first-brainbugs-gif').show();
@@ -91,8 +103,10 @@ $('#third-brainbugs-gif').on('mouseleave', function() {
 });
 
 
-
+// ------------------------------
 // ----- Gardener's Guide section
+// ------------------------------
+
 
 
 $('#first-gardener-gif-img').on('mouseover', function() {
@@ -127,8 +141,10 @@ $('#third-gardener-gif').on('mouseleave', function() {
 });
 
 
-
+// -----------------------------------
 // ----- Coronavirus Challenge section
+// -----------------------------------
+
 
 $('#first-corona-gif-img').on('mouseover', function() {
   $('#first-corona-gif').show();
