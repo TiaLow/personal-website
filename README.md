@@ -8,7 +8,9 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 ## Author
 Tia Low - [GitHub](https://github.com/TiaLow)
 
+## Description
 
+Personal portfolio website to showcase professional projects and highlight some personal information. 
 
 ## Credits
 Icons
