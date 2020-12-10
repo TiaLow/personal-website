@@ -12,8 +12,7 @@ $( document ).ready( function() {
   $('#third-dev-gif').hide();  
 
   $('#first-brainbugs-gif').hide();  
-  $('#second-brainbugs-gif').hide();   
-  $('#third-brainbugs-gif').hide();  
+  $('#second-brainbugs-gif').hide();  
 
   $('#first-gardener-gif').hide();  
   $('#second-gardener-gif').hide();   
@@ -80,11 +79,6 @@ $('#second-brainbugs-gif-img').on('mouseover', function() {
   $('#second-brainbugs-gif-img').hide();
 });
 
-$('#third-brainbugs-gif-img').on('mouseover', function() {
-  $('#third-brainbugs-gif').show();
-  $('#third-brainbugs-gif-img').hide();
-});
-
 
 
 $('#first-brainbugs-gif').on('mouseleave', function() {
@@ -92,14 +86,10 @@ $('#first-brainbugs-gif').on('mouseleave', function() {
   $('#first-brainbugs-gif-img').show();
 });
 
+
 $('#second-brainbugs-gif').on('mouseleave', function() {
   $('#second-brainbugs-gif').hide();
   $('#second-brainbugs-gif-img').show();
-});
-
-$('#third-brainbugs-gif').on('mouseleave', function() {
-  $('#third-brainbugs-gif').hide();
-  $('#third-brainbugs-gif-img').show();
 });
 
 
