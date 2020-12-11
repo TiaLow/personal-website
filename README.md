@@ -21,7 +21,7 @@ Other
 -	Scrollex (github.com/ajlkn/jquery.scrollex)
 -	Responsive Tools (github.com/ajlkn/responsive-tools)
 
+Background Image
+Photo by [Filip Zrnzević](https://unsplash.com/@filipz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/trees?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText")
 
-## Background Image
-<span>Photo by <a href="https://unsplash.com/@filipz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Filip Zrnzević</a> on <a href="https://unsplash.com/s/photos/trees?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
